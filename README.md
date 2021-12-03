@@ -1,6 +1,7 @@
 # Covid-19-Second-Wave-Analysis-
 
-Cover page 
+Cover page
+
 Our story is based on something the world is going through right now .The Pandemic .This study is focussed specifically on the second wave.
 
 ![image](https://user-images.githubusercontent.com/79561540/144585324-8478d269-7530-4076-a185-65c0bfddede1.png)
