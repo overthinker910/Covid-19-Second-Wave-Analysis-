@@ -27,7 +27,10 @@ because of their lesser population .
 Dashboard comparing 4 most affected countries in their respective continents along with the months during which they were more affected .
 ![image](https://user-images.githubusercontent.com/79561540/144585862-55b42fbc-8c2f-4e99-9603-752734d46d0d.png)
 
-Treemap showing how many people lost their lives in the second wave in various countries.
+
+
+
+Treemap showing how many people lost their lives in the second wave in various countries.Brazil and India were affected the most.
 ![image](https://user-images.githubusercontent.com/79561540/144585912-8f05ea5e-5a8f-454f-a0d7-f75740ffb227.png)
 
 
