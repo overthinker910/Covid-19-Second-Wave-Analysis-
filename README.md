@@ -54,12 +54,14 @@ Geospacial graph showing people fully vaccinated. Even now millions of vaccine d
 
 THANK YOU 
 
-Contributors_______________________________________________________________________________________________________
+Contributors
+_______________________________________________________________________________________________________
 Shreya Khetan 
 Gaurav Chawla 
 
 
-Acknowledgement______________________________________________________________________________________________________
+Acknowledgement
+______________________________________________________________________________________________________
 We would like to thank Prof. Vaibhav Vasani  for the guidance and support throughout the coursework.
 
 
