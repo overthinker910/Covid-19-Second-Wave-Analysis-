@@ -10,14 +10,19 @@ Introduction
 
 ![image](https://user-images.githubusercontent.com/79561540/144585474-dec0755a-0170-42cc-9bf3-16cfc15a615d.png)
 
+
 The begining of a dark phase in the pandemic .As we can clearly see,most  parts of the world were affected by the virus .India was more severely affected 
-as seen by the dark blur spot .This is a Heatmap showing effects of second wave on the world.
+as seen by the dark blue spot .This is a Heatmap showing effects of second wave on the world.
 
 ![image](https://user-images.githubusercontent.com/79561540/144585752-20ca6e1a-4202-4026-84a0-7173b198b48c.png)
+
+
 
 New cases per million showing worst affected countries.The smaller countries like Maldives and Bahrain  seem to have been affected more
 because of their lesser population .
 ![image](https://user-images.githubusercontent.com/79561540/144585801-7972ce23-2164-4df2-a66e-e0301cd18641.png)
+
+
 
 Dashboard comparing 4 most affected countries in their respective continents along with the months during which they were more affected .
 ![image](https://user-images.githubusercontent.com/79561540/144585862-55b42fbc-8c2f-4e99-9603-752734d46d0d.png)
