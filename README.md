@@ -52,7 +52,8 @@ Geospacial graph showing people fully vaccinated. Even now millions of vaccine d
 
 ![image](https://user-images.githubusercontent.com/79561540/144586199-27d684ed-7d81-47f4-9842-986ad61f57bf.png)
 
-
-
 THANK YOU 
+
+
+
 
