@@ -23,7 +23,7 @@ Treemap showing how many people lost their lives in the second wave in various c
 Graph showing exponential increase in new vaccinations administered all over the world
 ![image](https://user-images.githubusercontent.com/79561540/144586028-5379010c-3327-45f4-aff6-d6cd3ad2711f.png)
 
-Geospacial graph showing people fully vaccinated 
+'\t'Geospacial graph showing people fully vaccinated 
 ![image](https://user-images.githubusercontent.com/79561540/144586140-19da570c-6812-4dd5-a3cd-b1bd3c72fce0.png)
 
 
